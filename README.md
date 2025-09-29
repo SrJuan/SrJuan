@@ -5,9 +5,9 @@
 
 :computer: **Cloud Engenier**
 
-:cloud: **AWS** **Azure** **GCP**
+:cloud: **AWS** - **Azure** - **GCP**
 
-:book: **Js** **Python** **Go**
+:book: **Js** - **Python** - **Go**
 
 :eyeglasses: **Platzi Student**
 
