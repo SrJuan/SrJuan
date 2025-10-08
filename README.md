@@ -13,3 +13,8 @@
 
 ### Vias de contacto
 ![website](https://www.linkedin.com/in/juan-urriago)
+
+
+## :zap: Commits más recientes
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
